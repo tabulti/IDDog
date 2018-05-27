@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IDWall</string>
+    <string name="invalid_email">Email Inválido!</string>
+    <string name="title1">THE</string>
+    <string name="title2">IDDOG</string>
+    <string name="email_hint">enter your email</string>
+    <string name="enter">Entrar</string>
+    <string name="image_close">image close</string>
+    <string name="image_preview">image preview</string>
+    <string name="loading_wait">Aguarde, carregando...</string>
+    <string name="husky">Husky</string>
+    <string name="hound">Hound</string>
+    <string name="pug">Pug</string>
+    <string name="labrador">Labrador</string>
+    <string name="image_item_string">image_item</string>
+</resources>
